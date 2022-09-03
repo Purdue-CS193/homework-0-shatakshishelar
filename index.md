@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 
-
+#My favourite things about this class
 
 1. The instructors
 2. How easy the course is except the fact that my GitHub acts weird
